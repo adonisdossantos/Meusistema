@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "Meusistema",
+    "packageName": "adonis",
+    "packageFolder": "adonis",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "pt-br",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.5.0",
+    "jwtSecretKey": "NDFiODljYzUwNTQyM2RhNGRjZTdlNmRhNjE4NTJiODQ4YWNiNGYwMThlNjlhZjdlZWE1NDZlNDJkMDgyODk1MDY4ODhjNGY1ODc3OGFiODdmMDYxYzFhMTViMTZkZWNjMWEyMjU3ZDIxZTRiNDU0MTIzMDg0YWEzZGQ1ZmUzOTM="
+  },
+  "git-provider": "GitHub",
+  "git-company": "adonisdossantos",
+  "repository-name": "Meusistema"
+}
